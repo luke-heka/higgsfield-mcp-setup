@@ -22,7 +22,7 @@ Production-grade evidence layer added. Cook to lift kit-doctor score above 4.0.
 
 ### Why
 
-kit-doctor flagged evidence=1 (no smoke, no examples, no CHANGELOG). All three are now in place. Differentiation remains at default 3 until Harvey's yaml supplies the cross-check; that lifts the verdict to Production on the next 6h Pass 1 crawl.
+The skill flagged low on evidence (no smoke test, no examples, no CHANGELOG). All three are now in place.
 
 ### Not touched
 

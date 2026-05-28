@@ -44,6 +44,6 @@ The pairs-with handoff is documented in SKILL.md "Pairs with" section.
 - Install story: 4-5 (SETUP-PROMPT.md present)
 - Trigger fidelity: 4-5 (frontmatter description has "use when" + quoted phrases)
 - Clarity: 4-5 (depends on SKILL.md body, unchanged by cook)
-- Differentiation: 3 (default until Harvey's yaml supplies cross-check)
+- Differentiation: 3 (default until cross-checked against the kit index)
 
 Lifts the skill from sub-Promising to Promising 4.0-4.4 verdict.
