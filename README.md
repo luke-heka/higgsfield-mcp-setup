@@ -12,7 +12,7 @@ Paste this into Claude Code:
 Install + run the higgsfield-mcp-setup skill for me, end to end, no confirmation questions.
 
 1. Detect my OS (Mac/Linux/Windows). Make ~/.claude/skills/ if it doesn't exist.
-2. Clone https://github.com/lukeselr/higgsfield-mcp-setup into ~/.claude/skills/higgsfield-mcp-setup (Mac/Linux) or $HOME\.claude\skills\higgsfield-mcp-setup (Windows).
+2. Clone https://github.com/luke-heka/higgsfield-mcp-setup into ~/.claude/skills/higgsfield-mcp-setup (Mac/Linux) or $HOME\.claude\skills\higgsfield-mcp-setup (Windows).
 3. Read ~/.claude/skills/higgsfield-mcp-setup/SKILL.md and follow it from Phase 0 onwards.
 4. When the skill needs Playwright, open a browser and drive higgsfield.ai yourself. The only thing I'll do is sign in to my own Higgsfield account and click Allow on the consent screen.
 5. After connection works, smoke-test it by generating one small test image and confirming it returns.
